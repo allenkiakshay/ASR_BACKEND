@@ -1,0 +1,40 @@
+1
+00:00:02,470 --> 00:00:23,870
+Now that you have seen how matrix multiplication with a vector can be seen as a transformation, what I want to tell you is let us say you had a vector x and upon transformation this vector got transformed to another vector b and you want to bring it back to x.
+
+2
+00:00:26,028 --> 00:00:32,730
+That is the case when you are what you are doing when you essentially trying to solve AX equal to B, right?
+
+3
+00:00:32,730 --> 00:00:52,757
+You have the value for B and you have this transformation that you applied to X to get to B and now what you want is you want the original value of X. So basically now you want another transformation that can take B as input and get you back to X. So this transformation is basically called A inverse, right?
+
+4
+00:00:52,757 --> 00:00:55,698
+And like the original transformation,
+
+5
+00:00:56,467 --> 00:01:04,915
+If you multiply the given vector b with this transformation, it will definitely get you back to x, right?
+
+6
+00:01:04,915 --> 00:01:20,890
+Now, what do you think as Ritesh has already motivated sequential multiplication of matrices as subsequent transformations, what do you think that this matrix represents?
+
+7
+00:01:22,971 --> 00:01:29,734
+This is actually nothing but applying it or this or this anything.
+
+8
+00:01:29,734 --> 00:01:51,603
+This is nothing but applying a transformation on the vector X and then applying another transformation on the transform vector and we just saw that if you apply this transformation to X you will go to B and then you apply the inverse transformation it will again come back to X that essentially means this entire multiplication will result into X.
+
+9
+00:01:53,882 --> 00:02:05,589
+And if you look at this equation, you can easily deduce that A inverse A should be an identity matrix for this equation to hold.
+
+10
+00:02:05,589 --> 00:02:17,877
+So far we have talked about the cases where you can actually find out this inverse matrices and which is mostly in the case of square matrices that you are able to find out this inverse.
+

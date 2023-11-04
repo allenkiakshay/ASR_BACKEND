@@ -1,0 +1,11 @@
+start	end	text
+2470	23870	Now that you have seen how matrix multiplication with a vector can be seen as a transformation, what I want to tell you is let us say you had a vector x and upon transformation this vector got transformed to another vector b and you want to bring it back to x.
+26028	32730	That is the case when you are what you are doing when you essentially trying to solve AX equal to B, right?
+32730	52757	You have the value for B and you have this transformation that you applied to X to get to B and now what you want is you want the original value of X. So basically now you want another transformation that can take B as input and get you back to X. So this transformation is basically called A inverse, right?
+52757	55698	And like the original transformation,
+56467	64915	If you multiply the given vector b with this transformation, it will definitely get you back to x, right?
+64915	80890	Now, what do you think as Ritesh has already motivated sequential multiplication of matrices as subsequent transformations, what do you think that this matrix represents?
+82971	89734	This is actually nothing but applying it or this or this anything.
+89734	111603	This is nothing but applying a transformation on the vector X and then applying another transformation on the transform vector and we just saw that if you apply this transformation to X you will go to B and then you apply the inverse transformation it will again come back to X that essentially means this entire multiplication will result into X.
+113882	125589	And if you look at this equation, you can easily deduce that A inverse A should be an identity matrix for this equation to hold.
+125589	137877	So far we have talked about the cases where you can actually find out this inverse matrices and which is mostly in the case of square matrices that you are able to find out this inverse.

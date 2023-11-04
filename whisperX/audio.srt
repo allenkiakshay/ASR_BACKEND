@@ -1,0 +1,1048 @@
+1
+00:00:01,547 --> 00:00:02,427
+Good afternoon.
+
+2
+00:00:02,427 --> 00:00:03,268
+My name is Dr. Ball.
+
+3
+00:00:03,268 --> 00:00:05,028
+I'm one of the doctors in clinic today.
+
+4
+00:00:05,028 --> 00:00:06,328
+Thank you for coming in.
+
+5
+00:00:06,328 --> 00:00:09,229
+Can I just get you to confirm your name and age, please?
+
+6
+00:00:09,229 --> 00:00:13,310
+Yeah, it's Lucy Daniels, and I'm 47.
+
+7
+00:00:13,310 --> 00:00:14,011
+Nice to meet you.
+
+8
+00:00:14,011 --> 00:00:15,191
+Can I call you Lucy?
+
+9
+00:00:15,191 --> 00:00:15,911
+Of course, yeah.
+
+10
+00:00:15,911 --> 00:00:16,891
+Thank you.
+
+11
+00:00:16,891 --> 00:00:19,712
+So, I hear you've not been feeling very well recently.
+
+12
+00:00:19,712 --> 00:00:25,274
+Could you tell me a bit about what's been happening?
+
+13
+00:00:25,274 --> 00:00:26,994
+Well, it's just that I'm losing weight.
+
+14
+00:00:30,130 --> 00:00:34,551
+Could you tell me a little bit more about your weight loss?
+
+15
+00:00:34,551 --> 00:00:51,136
+Well, it's just that, you know, I'm not on a diet or anything, so it's like I'm not deliberately setting out to lose weight, but it just seems to be dropping off.
+
+16
+00:00:51,136 --> 00:00:54,277
+And how much weight do you think you've lost?
+
+17
+00:00:54,277 --> 00:00:59,078
+About nine kilograms in about six months.
+
+18
+00:00:59,525 --> 00:01:02,366
+Okay, that's quite a lot of weight.
+
+19
+00:01:02,366 --> 00:01:08,128
+Do you have any ideas what might be causing this weight loss?
+
+20
+00:01:08,128 --> 00:01:10,248
+Not really.
+
+21
+00:01:10,248 --> 00:01:12,889
+That's why I thought I'd better come in.
+
+22
+00:01:12,889 --> 00:01:14,789
+I'm glad you did.
+
+23
+00:01:14,789 --> 00:01:23,052
+Is there anything you're worried about in particular that I can help with today?
+
+24
+00:01:23,052 --> 00:01:26,453
+I suppose, because I am worried,
+
+25
+00:01:29,717 --> 00:01:49,651
+Possibly because my grandma, she lost a lot of weight and it turns out to be, it was bowel cancer and she has skin and bone at the end and again just because I'm not trying to lose weight.
+
+26
+00:01:49,651 --> 00:01:58,358
+I'm sorry to hear about your grandmother and I think we'll talk a bit more today and try and find out a bit more about what's been going on and we'll see if there's anything else we can do to help, okay?
+
+27
+00:01:59,133 --> 00:02:03,196
+Have you noticed anything else in the last six months that's been out of the ordinary for you?
+
+28
+00:02:03,196 --> 00:02:10,142
+Well, I suppose maybe linked to that, it's, you know, I seem to get diarrhoea.
+
+29
+00:02:10,142 --> 00:02:10,422
+Okay.
+
+30
+00:02:10,422 --> 00:02:13,424
+And I'm just going to ask you a bit more about your diarrhoea.
+
+31
+00:02:13,424 --> 00:02:16,947
+How many times a day are you going?
+
+32
+00:02:16,947 --> 00:02:19,229
+About three or four times a day now, yeah.
+
+33
+00:02:19,229 --> 00:02:19,649
+Okay.
+
+34
+00:02:19,649 --> 00:02:21,710
+And what's it like?
+
+35
+00:02:21,710 --> 00:02:23,031
+What do you mean, what's it like?
+
+36
+00:02:23,031 --> 00:02:24,673
+Is it runny?
+
+37
+00:02:24,673 --> 00:02:26,294
+Is it, yeah?
+
+38
+00:02:26,294 --> 00:02:27,695
+Is there any blood in it at all?
+
+39
+00:02:28,369 --> 00:02:31,391
+Okay, and can I ask what colour it is?
+
+40
+00:02:31,391 --> 00:02:32,291
+It's just brown.
+
+41
+00:02:32,291 --> 00:02:33,372
+Just brown, okay.
+
+42
+00:02:33,372 --> 00:02:36,274
+And when you have the diarrhoea, do you have any pain in your tummy?
+
+43
+00:02:36,274 --> 00:02:37,555
+No.
+
+44
+00:02:37,555 --> 00:02:38,716
+No, okay.
+
+45
+00:02:38,716 --> 00:02:41,437
+And do you get any bloating, your tummy sticking out?
+
+46
+00:02:41,437 --> 00:02:41,998
+No.
+
+47
+00:02:41,998 --> 00:02:43,338
+No, okay, good.
+
+48
+00:02:43,338 --> 00:02:47,501
+Any nausea or vomiting, so feeling of being sick around this time as well?
+
+49
+00:02:47,501 --> 00:02:48,261
+No.
+
+50
+00:02:48,261 --> 00:02:49,782
+Good, okay.
+
+51
+00:02:49,782 --> 00:02:51,984
+And is there anything else out of the ordinary that you've noticed?
+
+52
+00:02:55,300 --> 00:03:00,103
+I'm just feeling a lot more anxious than I usually am as well.
+
+53
+00:03:00,103 --> 00:03:01,204
+Okay.
+
+54
+00:03:01,204 --> 00:03:02,605
+And what do you mean by anxious?
+
+55
+00:03:02,605 --> 00:03:05,247
+What does that mean to you?
+
+56
+00:03:05,247 --> 00:03:11,170
+Well, just generally quite on feel on edge, but I'm getting palpitations as well.
+
+57
+00:03:11,170 --> 00:03:11,731
+Okay.
+
+58
+00:03:11,731 --> 00:03:12,951
+Okay.
+
+59
+00:03:12,951 --> 00:03:15,733
+And the palpitations you're having, are they fast or are they slow?
+
+60
+00:03:15,733 --> 00:03:17,314
+No, they're fast.
+
+61
+00:03:17,314 --> 00:03:22,438
+You know, it's like I'm on a, like, I'm on a train track.
+
+62
+00:03:22,438 --> 00:03:23,178
+Okay.
+
+63
+00:03:23,178 --> 00:03:24,599
+And when you have these palpitations,
+
+64
+00:03:25,069 --> 00:03:26,930
+Is there anything that brings them on in particular?
+
+65
+00:03:26,930 --> 00:03:31,933
+Not really seeing a pattern.
+
+66
+00:03:31,933 --> 00:03:33,534
+They're more regular.
+
+67
+00:03:33,534 --> 00:03:33,994
+Okay.
+
+68
+00:03:33,994 --> 00:03:37,376
+You know, they're happening most days now.
+
+69
+00:03:37,376 --> 00:03:38,776
+I'm sorry to hear that.
+
+70
+00:03:38,776 --> 00:03:41,378
+And when you get them, is there any pain at all?
+
+71
+00:03:41,378 --> 00:03:42,098
+No.
+
+72
+00:03:42,098 --> 00:03:45,140
+No, it's just like boom, boom, boom, boom.
+
+73
+00:03:45,140 --> 00:03:47,021
+Okay, alright.
+
+74
+00:03:47,021 --> 00:03:50,703
+So no chest pain when you're having these palpitations, but they've been coming on a bit more regularly?
+
+75
+00:03:50,703 --> 00:03:51,103
+Yeah.
+
+76
+00:03:51,103 --> 00:03:52,104
+Okay.
+
+77
+00:03:52,104 --> 00:03:54,105
+And have you noticed any change in your breathing at all?
+
+78
+00:03:54,897 --> 00:03:55,257
+No.
+
+79
+00:03:55,257 --> 00:03:56,458
+Any coughing at all?
+
+80
+00:03:56,458 --> 00:03:57,018
+No.
+
+81
+00:03:57,018 --> 00:03:57,298
+No?
+
+82
+00:03:57,298 --> 00:03:58,259
+All right.
+
+83
+00:03:58,259 --> 00:04:01,641
+Have you had any fevers over the last six months?
+
+84
+00:04:01,641 --> 00:04:07,004
+No, not fevers, but I mean also I just seem to be having quite a lot of hot flushes.
+
+85
+00:04:07,004 --> 00:04:08,585
+I mean it might be my age.
+
+86
+00:04:08,585 --> 00:04:12,607
+I am about that age.
+
+87
+00:04:12,607 --> 00:04:13,107
+Yeah.
+
+88
+00:04:13,107 --> 00:04:13,908
+Okay.
+
+89
+00:04:13,908 --> 00:04:17,310
+And at night, have you been finding you're sweating a lot at night?
+
+90
+00:04:17,310 --> 00:04:18,731
+Yeah, yeah.
+
+91
+00:04:18,731 --> 00:04:21,112
+Do you drench the bed sheets when you're sweating at night?
+
+92
+00:04:21,809 --> 00:04:22,089
+No.
+
+93
+00:04:22,089 --> 00:04:24,629
+Doesn't wake you up and you feel you need to change your bedclothes?
+
+94
+00:04:24,629 --> 00:04:24,930
+No.
+
+95
+00:04:24,930 --> 00:04:25,650
+Okay, alright.
+
+96
+00:04:25,650 --> 00:04:28,890
+I'm just going to ask you a few other quick questions to sort of run through everything.
+
+97
+00:04:28,890 --> 00:04:29,750
+Okay.
+
+98
+00:04:29,750 --> 00:04:32,851
+Have you had any changes in your vision at all?
+
+99
+00:04:32,851 --> 00:04:35,271
+Any dry eyes, blurred vision?
+
+100
+00:04:35,271 --> 00:04:35,471
+No.
+
+101
+00:04:35,471 --> 00:04:35,711
+No?
+
+102
+00:04:35,711 --> 00:04:36,411
+Okay.
+
+103
+00:04:36,411 --> 00:04:39,572
+Have you noticed any lumps or bumps anywhere?
+
+104
+00:04:39,572 --> 00:04:39,952
+No.
+
+105
+00:04:39,952 --> 00:04:40,292
+No?
+
+106
+00:04:40,292 --> 00:04:41,712
+Any joint pains at all?
+
+107
+00:04:41,712 --> 00:04:42,473
+No.
+
+108
+00:04:42,473 --> 00:04:42,873
+Good.
+
+109
+00:04:42,873 --> 00:04:45,933
+Any changes in your skin colour or texture?
+
+110
+00:04:45,933 --> 00:04:46,413
+No.
+
+111
+00:04:46,413 --> 00:04:46,793
+No?
+
+112
+00:04:46,793 --> 00:04:47,213
+Good.
+
+113
+00:04:47,213 --> 00:04:48,253
+Okay.
+
+114
+00:04:48,253 --> 00:04:51,074
+Have you had any changes in your bladder function?
+
+115
+00:04:52,014 --> 00:04:52,454
+No.
+
+116
+00:04:52,454 --> 00:04:52,955
+No?
+
+117
+00:04:52,955 --> 00:04:53,875
+Okay.
+
+118
+00:04:53,875 --> 00:04:55,116
+And you mentioned some diarrhoea.
+
+119
+00:04:55,116 --> 00:04:56,977
+Have you been constipated at all?
+
+120
+00:04:56,977 --> 00:04:57,557
+No.
+
+121
+00:04:57,557 --> 00:04:57,917
+No?
+
+122
+00:04:57,917 --> 00:04:59,218
+Okay.
+
+123
+00:04:59,218 --> 00:04:59,778
+Alright.
+
+124
+00:04:59,778 --> 00:05:05,060
+Have you been abroad anywhere in this last six months or in the six months prior to when you were feeling unwell?
+
+125
+00:05:05,060 --> 00:05:05,501
+No.
+
+126
+00:05:05,501 --> 00:05:05,961
+No?
+
+127
+00:05:05,961 --> 00:05:06,481
+Okay.
+
+128
+00:05:06,481 --> 00:05:08,022
+Alright.
+
+129
+00:05:08,022 --> 00:05:10,603
+Is there anything else that's been out of the ordinary?
+
+130
+00:05:10,603 --> 00:05:17,466
+Anything else that we haven't talked about that you thought that this just seems a bit strange to me?
+
+131
+00:05:17,466 --> 00:05:18,367
+I don't think so.
+
+132
+00:05:18,367 --> 00:05:18,607
+No.
+
+133
+00:05:18,607 --> 00:05:19,327
+So it's mainly
+
+134
+00:05:21,123 --> 00:05:27,207
+You've had some anxiety, some palpitations with that, diarrhea, and the main thing that's concerning you is the weight loss?
+
+135
+00:05:27,207 --> 00:05:28,388
+Yeah.
+
+136
+00:05:28,388 --> 00:05:29,709
+Okay, alright.
+
+137
+00:05:29,709 --> 00:05:33,972
+Now, do you have any other medical problems at all?
+
+138
+00:05:33,972 --> 00:05:39,275
+Well, I was diagnosed as having type 2 diabetes a couple of months ago.
+
+139
+00:05:39,275 --> 00:05:41,837
+Okay, and do you take any medications for that?
+
+140
+00:05:41,837 --> 00:05:49,662
+No, no, I don't really like taking medication, so I decided to just try and, you know, regulate it with my diet.
+
+141
+00:05:51,027 --> 00:05:54,689
+Have you changed your diet at all?
+
+142
+00:05:54,689 --> 00:05:55,809
+No, not really.
+
+143
+00:05:55,809 --> 00:05:57,790
+Okay, all right.
+
+144
+00:05:57,790 --> 00:05:59,731
+Any other medical conditions at all?
+
+145
+00:05:59,731 --> 00:06:02,492
+No, that's it.
+
+146
+00:06:02,492 --> 00:06:02,812
+No?
+
+147
+00:06:02,812 --> 00:06:03,613
+Okay.
+
+148
+00:06:03,613 --> 00:06:06,134
+And you don't take any medications for your diabetes.
+
+149
+00:06:06,134 --> 00:06:10,776
+Do you take any medications for any other reasons?
+
+150
+00:06:10,776 --> 00:06:11,156
+No.
+
+151
+00:06:11,156 --> 00:06:13,697
+And you don't take anything from the pharmacist that you buy yourself?
+
+152
+00:06:13,697 --> 00:06:14,557
+No, no.
+
+153
+00:06:14,557 --> 00:06:15,438
+Okay.
+
+154
+00:06:15,438 --> 00:06:16,918
+Are you allergic to any medications?
+
+155
+00:06:19,165 --> 00:06:21,046
+No, not medications, no.
+
+156
+00:06:21,046 --> 00:06:23,748
+Are you allergic to anything else?
+
+157
+00:06:23,748 --> 00:06:26,909
+Yeah, cashews and nuts, actually.
+
+158
+00:06:26,909 --> 00:06:30,491
+And do you smoke?
+
+159
+00:06:30,491 --> 00:06:31,552
+No, I've stopped.
+
+160
+00:06:31,552 --> 00:06:32,132
+You've stopped?
+
+161
+00:06:32,132 --> 00:06:32,412
+Yeah.
+
+162
+00:06:32,412 --> 00:06:33,313
+Well done for stopping.
+
+163
+00:06:33,313 --> 00:06:35,934
+When did you stop?
+
+164
+00:06:35,934 --> 00:06:37,075
+Two weeks ago.
+
+165
+00:06:37,075 --> 00:06:37,835
+Okay.
+
+166
+00:06:37,835 --> 00:06:40,757
+And what triggered you to stop at that point?
+
+167
+00:06:40,757 --> 00:06:43,558
+I suppose it was just because I've been feeling so under the weather.
+
+168
+00:06:45,918 --> 00:06:48,601
+And I thought, well, no, I need to do something.
+
+169
+00:06:48,601 --> 00:06:51,863
+So I thought, well, start with smoking, I guess.
+
+170
+00:06:51,863 --> 00:06:52,664
+Yeah, absolutely.
+
+171
+00:06:52,664 --> 00:06:55,687
+And I think that was probably a good place to start.
+
+172
+00:06:55,687 --> 00:06:57,668
+When you were smoking, how many were you smoking a day?
+
+173
+00:06:57,668 --> 00:07:01,752
+About 25.
+
+174
+00:07:01,752 --> 00:07:02,272
+OK.
+
+175
+00:07:02,272 --> 00:07:03,874
+And when did you start smoking?
+
+176
+00:07:03,874 --> 00:07:04,935
+Oh, crikey, years ago.
+
+177
+00:07:04,935 --> 00:07:05,715
+I was about 14, 15.
+
+178
+00:07:05,715 --> 00:07:06,196
+OK.
+
+179
+00:07:06,196 --> 00:07:08,518
+All right.
+
+180
+00:07:08,518 --> 00:07:12,261
+And in terms of alcohol, do you drink alcohol?
+
+181
+00:07:12,261 --> 00:07:12,922
+Yeah, I do, yeah.
+
+182
+00:07:12,922 --> 00:07:13,162
+You do?
+
+183
+00:07:14,042 --> 00:07:17,525
+And in an average week, how much would you say you drank?
+
+184
+00:07:17,525 --> 00:07:22,908
+I'm not sure, really.
+
+185
+00:07:22,908 --> 00:07:23,409
+Okay.
+
+186
+00:07:23,409 --> 00:07:26,091
+How many times a week do you drink?
+
+187
+00:07:26,091 --> 00:07:29,373
+How many days a week?
+
+188
+00:07:29,373 --> 00:07:31,174
+Well, to be honest, it is most days, though.
+
+189
+00:07:31,174 --> 00:07:31,875
+Yeah.
+
+190
+00:07:31,875 --> 00:07:32,375
+Okay.
+
+191
+00:07:32,375 --> 00:07:32,855
+All right.
+
+192
+00:07:32,855 --> 00:07:35,277
+And what are you having to drink on these days?
+
+193
+00:07:35,277 --> 00:07:35,998
+Wine.
+
+194
+00:07:35,998 --> 00:07:36,498
+Yeah.
+
+195
+00:07:36,498 --> 00:07:37,779
+It's just wine.
+
+196
+00:07:37,779 --> 00:07:41,161
+And how many glasses of wine would you say you drank?
+
+197
+00:07:41,161 --> 00:07:42,062
+Maybe two or three.
+
+198
+00:07:42,693 --> 00:07:46,615
+Two or three small, large glasses?
+
+199
+00:07:46,615 --> 00:07:48,355
+Variable, I think, yeah.
+
+200
+00:07:48,355 --> 00:07:50,396
+But you're drinking every day at the moment.
+
+201
+00:07:50,396 --> 00:07:55,599
+And has that changed recently?
+
+202
+00:07:55,599 --> 00:08:08,364
+Well, I suppose it's become a bit more of a regular thing just because, I don't know, it just seems to help a bit at night time with the anxiety.
+
+203
+00:08:08,364 --> 00:08:10,245
+Okay, okay, I understand that.
+
+204
+00:08:10,817 --> 00:08:21,205
+It's important that we maybe try and cut down on the alcohol a bit, because you are drinking more than we'd recommend you drink, but we can talk a bit more about that a bit later on if you like.
+
+205
+00:08:21,205 --> 00:08:22,826
+Okay.
+
+206
+00:08:22,826 --> 00:08:25,288
+Now, do you take any other recreational drugs at all?
+
+207
+00:08:25,288 --> 00:08:26,970
+Oh no, no.
+
+208
+00:08:26,970 --> 00:08:28,511
+And what's your home situation like?
+
+209
+00:08:28,511 --> 00:08:30,372
+Who's with you at home?
+
+210
+00:08:30,372 --> 00:08:32,694
+Four girls, actually.
+
+211
+00:08:32,694 --> 00:08:36,037
+They're all at school, secondary school.
+
+212
+00:08:36,037 --> 00:08:38,138
+Divorced from a husband.
+
+213
+00:08:38,138 --> 00:08:38,759
+That was last year.
+
+214
+00:08:39,918 --> 00:08:42,600
+Okay, I mean, it sounds like you're quite busy.
+
+215
+00:08:42,600 --> 00:08:45,601
+Are you finding you're under a lot more stress at the moment?
+
+216
+00:08:45,601 --> 00:08:50,304
+Well, no more than usual, I suppose, but I mean, yeah, I do have quite a lot on.
+
+217
+00:08:50,304 --> 00:08:51,945
+Okay, alright, okay.
+
+218
+00:08:51,945 --> 00:08:59,670
+Do you have any family history of any medical problems?
+
+219
+00:08:59,670 --> 00:09:05,393
+Well, yeah, you know, my grandma, she had bowel cancer.
+
+220
+00:09:05,393 --> 00:09:07,294
+I don't know whether anybody else had that.
+
+221
+00:09:10,429 --> 00:09:16,072
+And I think my mom had a problem with her thyroid.
+
+222
+00:09:16,072 --> 00:09:18,913
+I know she had an operation or something when I was a little girl.
+
+223
+00:09:18,913 --> 00:09:20,614
+I'm not too sure.
+
+224
+00:09:20,614 --> 00:09:21,975
+Okay, all right.
+
+225
+00:09:21,975 --> 00:09:25,116
+With your gran, I know it's difficult to talk about her.
+
+226
+00:09:25,116 --> 00:09:29,158
+What age was she when she had the bowel cancer?
+
+227
+00:09:29,158 --> 00:09:30,839
+Maybe about 75, something like that.
+
+228
+00:09:30,839 --> 00:09:31,799
+Okay, all right.
+
+229
+00:09:34,033 --> 00:09:40,660
+Sounds like there's been quite a few things going on and I think it's probably important that I do a few things today.
+
+230
+00:09:40,660 --> 00:09:49,610
+Firstly, if it's alright with you, I'd like to examine you and then after that we'll send some blood tests off to check a few things over.
+
+231
+00:09:49,610 --> 00:09:53,655
+Do you have anything else in particular you're worried about or want to talk to me today about?
+
+232
+00:09:54,448 --> 00:10:00,734
+Well, yeah, I was just really, you know, it's linked to my grandma.
+
+233
+00:10:00,734 --> 00:10:08,382
+I was really wanting to see whether I could have a referral to have a colonoscopy.
+
+234
+00:10:08,382 --> 00:10:11,365
+Okay, and I know you were concerned about bowel cancer.
+
+235
+00:10:12,060 --> 00:10:17,944
+I think, first of all, I'd like to do those blood tests, because that'll tell us generally about how you are overall.
+
+236
+00:10:17,944 --> 00:10:28,150
+If there's any concern on there, I'm very happy to refer you for a colonoscopy, but let's do those blood tests first and see where we go from there, okay?
+
+237
+00:10:28,150 --> 00:10:35,474
+The weight loss and the diarrhea are obviously concerning features, but there's a few other things in there that make me think this might be something else as well.
+
+238
+00:10:35,474 --> 00:10:38,256
+But it is in the back of my mind, and we may probably need to...
+
+239
+00:10:39,315 --> 00:10:47,482
+So I think one of the first things I'm thinking about for you is the possibility that you also have issues with your thyroid.
+
+240
+00:10:47,482 --> 00:10:59,792
+So your mother had thyroid problems and there's a possibility you also have hyperactive thyroid, which can give you things like weight loss, the palpitations, that anxiety that you've been feeling.
+
+241
+00:10:59,792 --> 00:11:06,438
+Other things are that you may also be going through the menopause as well, which can give you a lot of the symptoms that you've been describing.
+
+242
+00:11:07,158 --> 00:11:10,119
+So these are the sort of main things I'm thinking about.
+
+243
+00:11:10,119 --> 00:11:13,161
+Also mental health conditions can affect us in many ways.
+
+244
+00:11:13,161 --> 00:11:18,903
+So the anxiety can give you palpitations, can affect your appetite and things, and you can lose weight that way.
+
+245
+00:11:18,903 --> 00:11:21,584
+Although you say you haven't changed your diet much.
+
+246
+00:11:21,584 --> 00:11:24,465
+But these are all things that it's worth exploring as well.
+
+247
+00:11:24,465 --> 00:11:35,290
+And if at the moment there aren't any features that are worrying me, particularly about bowel cancer, but it is in the back of my mind and I'm listening to that concern that you have.
+
+248
+00:11:35,990 --> 00:11:40,551
+Okay, so if nothing comes up I could have the colonoscopy then to rule it out?
+
+249
+00:11:40,551 --> 00:11:44,832
+Potentially yes, but let's do those blood tests first.
+
+250
+00:11:44,832 --> 00:11:46,873
+Is there anything else I can do for you today?
+
+251
+00:11:46,873 --> 00:11:48,073
+No, that's everything, thank you.
+
+252
+00:11:48,073 --> 00:11:51,214
+Okay, no worries, thank you very much.
+
+253
+00:11:51,214 --> 00:11:56,615
+Today I took a history from Lucy Daniels, a 46 year old woman who presents with weight loss and anxiety.
+
+254
+00:11:56,615 --> 00:11:59,336
+She has lost over 9 kilograms in 6 months.
+
+255
+00:11:59,336 --> 00:12:03,937
+She's been experiencing hot flushes and periodic palpitations as well as some intermittent diarrhea.
+
+256
+00:12:04,478 --> 00:12:06,460
+She's had no other symptoms.
+
+257
+00:12:06,460 --> 00:12:11,764
+She has a past medical history of type 2 diabetes for which she takes no regular medication.
+
+258
+00:12:11,764 --> 00:12:15,568
+She's an ex-smoker and drinks one to two glasses of wine a night.
+
+259
+00:12:15,568 --> 00:12:21,112
+Her main concern is that this might be bowel cancer, as her grandmother was recently diagnosed with bowel cancer.
+
+260
+00:12:21,112 --> 00:12:24,275
+My top differential in this case is hyperthyroidism.
+
+261
+00:12:24,275 --> 00:12:31,862
+To proceed, I would like to fully examine the patient, in particular to look for any peripheral evidence of hyperthyroidism and for any abnormality of the thyroid.
+
+262
+00:12:32,574 --> 00:12:36,970
+I would also like to perform thyroid function tests and ECG and consider further imaging
+
