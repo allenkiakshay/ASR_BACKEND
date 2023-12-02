@@ -12,6 +12,7 @@ cursor = conn.cursor()
 cursor.execute('''CREATE TABLE IF NOT EXISTS preview (
                     id INTEGER PRIMARY KEY,
                     email TEXT NOT NULL,
+                    user_type TEXT NOT NULL,
                     maindata TEXT NOT NULL,
                     mediaName TEXT NOT NULL,
                     docName TEXT NOT NULL,
@@ -35,8 +36,9 @@ def adddata():
     token = str(data.get('token'))
     willGenerate = str(data.get('willGenerate'))
     timestamp = datetime.datetime.now()
+    user_type = "Owner"
 
-    cursor.execute('INSERT INTO preview (email, maindata, mediaName, docName, language, creationTime, modifyTime, token, willGenerate, timestamp) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)', (email, json.dumps(data), mediaName, docName, language, creationTime, modifyTime, token, willGenerate, timestamp))
+    cursor.execute('INSERT INTO preview (email, user_type, maindata, mediaName, docName, language, creationTime, modifyTime, token, willGenerate, timestamp) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)', (email, user_type, json.dumps(data), mediaName, docName, language, creationTime, modifyTime, token, willGenerate, timestamp))
     conn.commit()
 
     cursor.execute('SELECT maindata FROM preview WHERE email = ?', (email,))
