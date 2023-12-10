@@ -14,6 +14,7 @@ cursor = conn.cursor()
 cursor.execute('''CREATE TABLE IF NOT EXISTS users (
                     id INTEGER PRIMARY KEY,
                     email TEXT NOT NULL UNIQUE,
+                    name TEXT NOT NULL,
                     password TEXT,
                     datetime TEXT NOT NULL
                 )''')
@@ -34,6 +35,7 @@ def signup():
     print(data)
     email = data.get('email')
     password = data.get('password')
+    name = data.get('name')
     date_time = datetime.datetime.now()
 
     if not email or not password:
@@ -46,7 +48,7 @@ def signup():
     if existing_user:
         return jsonify({'message': 'Email already in use'}), 400
 
-    cursor.execute('INSERT INTO users (email, password, datetime) VALUES (?, ?, ?)', (email, hashed_password, date_time))
+    cursor.execute('INSERT INTO users (email, name, password, datetime) VALUES (?, ?, ?, ?)', (email, name, hashed_password, date_time))
     conn.commit()
 
     return jsonify({'message': 'Signup successful'})

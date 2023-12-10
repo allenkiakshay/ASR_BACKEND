@@ -23,6 +23,21 @@ cursor.execute('''CREATE TABLE IF NOT EXISTS preview (
                     willGenerate TEXT NOT NULL,
                     timestamp TEXT NOT NULL
                 )''')
+
+cursor.execute('''CREATE TABLE IF NOT EXISTS main_preview (
+                    id INTEGER PRIMARY KEY,
+                    email TEXT NOT NULL,
+                    associates TEXT,
+                    maindata TEXT NOT NULL,
+                    mediaName TEXT NOT NULL,
+                    docName TEXT NOT NULL,
+                    language TEXT NOT NULL,
+                    creationTime TEXT NOT NULL,
+                    modifyTime TEXT NOT NULL,
+                    token TEXT NOT NULL,
+                    willGenerate TEXT NOT NULL,
+                    timestamp TEXT NOT NULL
+                )''')
 conn.commit()
 @preview_bp.route('/adddata', methods=['POST'])
 def adddata():
@@ -39,6 +54,7 @@ def adddata():
     user_type = "Owner"
 
     cursor.execute('INSERT INTO preview (email, user_type, maindata, mediaName, docName, language, creationTime, modifyTime, token, willGenerate, timestamp) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)', (email, user_type, json.dumps(data), mediaName, docName, language, creationTime, modifyTime, token, willGenerate, timestamp))
+    cursor.execute('INSERT INTO main_preview (email, maindata, mediaName, docName, language, creationTime, modifyTime, token, willGenerate, timestamp) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)', (email, json.dumps(data), mediaName, docName, language, creationTime, modifyTime, token, willGenerate, timestamp))
     conn.commit()
 
     cursor.execute('SELECT maindata FROM preview WHERE email = ?', (email,))

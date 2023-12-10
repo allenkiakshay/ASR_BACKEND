@@ -18,7 +18,7 @@ def call_method():
         file = request.files['file']
         filename = secure_filename(file.filename)
         filename_without_ext=os.path.splitext(filename)[0]
-        source_lang = request.form.get('source_language','English')
+        source_lang = request.form.get('destination_language','Sanskrit')
         print(source_lang)
 
         isExist = os.path.exists("./uploads")
