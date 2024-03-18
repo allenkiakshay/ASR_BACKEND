@@ -1,16 +1,27 @@
 # Install The Requirements
-  - command: sudo apt install ffmpeg mp3splt sox libsox-fmt-mp3 redis -y
-  - command: pip install flask
-  - command: pip install librosa
-  - command: pip install pytorch
-  - command: pip install torchvision
-  - command: pip install nltk
-  - command: pip install ffmpeg-python
-  - command: pip install pyannote.audio
-  - command: pip install transformers
-  - command: pip install celery[redis]
-  - command: pip install faster_whisper
-  - command: pip install ctranslate2
+
+```
+pip install flask
+pip install Flask-Cors
+pip install librosa
+pip install torch
+pip install torchvision
+pip install nltk
+pip install ffmpeg-python
+pip install pyannote.audio
+pip install transformers
+pip install celery[redis]
+pip install faster_whisper
+pip install ctranslate2
+pip install pydub
+```
+
+# To start server run these commands
+
+- command: rm -rf ./uploads
+- command: python wsgi.py
+- command: celery -A tasks worker --loglevel=info
+
 # To start server run these commands
   - command: rm -rf ./uploads
   - command: python main.py
